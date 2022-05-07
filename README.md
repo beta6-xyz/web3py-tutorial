@@ -5,7 +5,7 @@ This is an tutorial for web3.py. Basic function includes:
 * connect to infura websocket with web3.py
 * output ETH balance for an address
 * Query basic information for ERC20 token
-* Listen to APE Token transfer event 
+* Listen to APECoin Token transfer event 
 
 ## Prerequirement
 
